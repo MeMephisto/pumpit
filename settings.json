@@ -1,0 +1,6 @@
+{
+  "apikey": "apikeyhere",
+  "secretkey": "secretkeyhere",
+  "buy": "buypercentagenumerichere",
+  "sell": "sellpercentagenumerichere"
+}
